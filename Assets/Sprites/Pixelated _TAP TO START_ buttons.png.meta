@@ -1,0 +1,3822 @@
+fileFormatVersion: 2
+guid: e7923e0d14c7523408d7c57740f99d02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1459440488017373268
+    second: Pixelated _TAP TO START_ buttons_0
+  - first:
+      213: 3886460554051479959
+    second: Pixelated _TAP TO START_ buttons_1
+  - first:
+      213: -3041864735594816266
+    second: Pixelated _TAP TO START_ buttons_2
+  - first:
+      213: -4223200482238183146
+    second: Pixelated _TAP TO START_ buttons_3
+  - first:
+      213: -7959317059237119730
+    second: Pixelated _TAP TO START_ buttons_4
+  - first:
+      213: 4076363541736081415
+    second: Pixelated _TAP TO START_ buttons_5
+  - first:
+      213: 7166591021495241422
+    second: Pixelated _TAP TO START_ buttons_6
+  - first:
+      213: -6322920865429996905
+    second: Pixelated _TAP TO START_ buttons_7
+  - first:
+      213: -5712041256035340513
+    second: Pixelated _TAP TO START_ buttons_8
+  - first:
+      213: -5134964206091476198
+    second: Pixelated _TAP TO START_ buttons_9
+  - first:
+      213: -4251520568793466781
+    second: Pixelated _TAP TO START_ buttons_10
+  - first:
+      213: 2362353873244046811
+    second: Pixelated _TAP TO START_ buttons_11
+  - first:
+      213: 1105099246943904994
+    second: Pixelated _TAP TO START_ buttons_12
+  - first:
+      213: 8783579362811110452
+    second: Pixelated _TAP TO START_ buttons_13
+  - first:
+      213: -5517440854617671185
+    second: Pixelated _TAP TO START_ buttons_14
+  - first:
+      213: 1731136453400316377
+    second: Pixelated _TAP TO START_ buttons_15
+  - first:
+      213: -1030046237064597512
+    second: Pixelated _TAP TO START_ buttons_16
+  - first:
+      213: 1765206393957281745
+    second: Pixelated _TAP TO START_ buttons_17
+  - first:
+      213: 6563662797358055246
+    second: Pixelated _TAP TO START_ buttons_18
+  - first:
+      213: 7542708544976311744
+    second: Pixelated _TAP TO START_ buttons_19
+  - first:
+      213: -3009544809468394894
+    second: Pixelated _TAP TO START_ buttons_20
+  - first:
+      213: -5411496934307520005
+    second: Pixelated _TAP TO START_ buttons_21
+  - first:
+      213: -2593790383240242197
+    second: Pixelated _TAP TO START_ buttons_22
+  - first:
+      213: -5765871187413896073
+    second: Pixelated _TAP TO START_ buttons_23
+  - first:
+      213: 6374486152603966008
+    second: Pixelated _TAP TO START_ buttons_24
+  - first:
+      213: 793584591378061423
+    second: Pixelated _TAP TO START_ buttons_25
+  - first:
+      213: -2227419479997916263
+    second: Pixelated _TAP TO START_ buttons_26
+  - first:
+      213: 4205019736540821479
+    second: Pixelated _TAP TO START_ buttons_27
+  - first:
+      213: 8277862169205902197
+    second: Pixelated _TAP TO START_ buttons_28
+  - first:
+      213: 5310385544856987270
+    second: Pixelated _TAP TO START_ buttons_29
+  - first:
+      213: 94159531182914620
+    second: Pixelated _TAP TO START_ buttons_30
+  - first:
+      213: 455526852083745622
+    second: Pixelated _TAP TO START_ buttons_31
+  - first:
+      213: -823195861446139040
+    second: Pixelated _TAP TO START_ buttons_32
+  - first:
+      213: 4900306480015621381
+    second: Pixelated _TAP TO START_ buttons_33
+  - first:
+      213: -1243202579976766764
+    second: Pixelated _TAP TO START_ buttons_34
+  - first:
+      213: -9001418820404754034
+    second: Pixelated _TAP TO START_ buttons_35
+  - first:
+      213: 5551190636311809207
+    second: Pixelated _TAP TO START_ buttons_36
+  - first:
+      213: 902748790348743492
+    second: Pixelated _TAP TO START_ buttons_37
+  - first:
+      213: -8423689267886049255
+    second: Pixelated _TAP TO START_ buttons_38
+  - first:
+      213: -7646455206642525089
+    second: Pixelated _TAP TO START_ buttons_39
+  - first:
+      213: 3083992064064339657
+    second: Pixelated _TAP TO START_ buttons_40
+  - first:
+      213: 1581314773018734893
+    second: Pixelated _TAP TO START_ buttons_41
+  - first:
+      213: 3132716913492530930
+    second: Pixelated _TAP TO START_ buttons_42
+  - first:
+      213: 3652019934568556046
+    second: Pixelated _TAP TO START_ buttons_43
+  - first:
+      213: 4094818353173941899
+    second: Pixelated _TAP TO START_ buttons_44
+  - first:
+      213: -2853241023470590173
+    second: Pixelated _TAP TO START_ buttons_45
+  - first:
+      213: -5255498418414599773
+    second: Pixelated _TAP TO START_ buttons_46
+  - first:
+      213: -3627959415724445883
+    second: Pixelated _TAP TO START_ buttons_47
+  - first:
+      213: -7516419160366362
+    second: Pixelated _TAP TO START_ buttons_48
+  - first:
+      213: -4905198059627737691
+    second: Pixelated _TAP TO START_ buttons_49
+  - first:
+      213: 5303038443640357514
+    second: Pixelated _TAP TO START_ buttons_50
+  - first:
+      213: -197853309950222625
+    second: Pixelated _TAP TO START_ buttons_51
+  - first:
+      213: -6107026974095325672
+    second: Pixelated _TAP TO START_ buttons_52
+  - first:
+      213: -7577550025242506578
+    second: Pixelated _TAP TO START_ buttons_53
+  - first:
+      213: 5089705172561553837
+    second: Pixelated _TAP TO START_ buttons_54
+  - first:
+      213: -2450655052313782072
+    second: Pixelated _TAP TO START_ buttons_55
+  - first:
+      213: 6742783916037395592
+    second: Pixelated _TAP TO START_ buttons_56
+  - first:
+      213: -574088373188361194
+    second: Pixelated _TAP TO START_ buttons_57
+  - first:
+      213: -8208081810336322040
+    second: Pixelated _TAP TO START_ buttons_58
+  - first:
+      213: -2904191398584601362
+    second: Pixelated _TAP TO START_ buttons_59
+  - first:
+      213: 5568060484843912352
+    second: Pixelated _TAP TO START_ buttons_60
+  - first:
+      213: -8847205797906914443
+    second: Pixelated _TAP TO START_ buttons_61
+  - first:
+      213: 1221177938188972149
+    second: Pixelated _TAP TO START_ buttons_62
+  - first:
+      213: -4293715179957145389
+    second: Pixelated _TAP TO START_ buttons_63
+  - first:
+      213: -3796231651363218074
+    second: Pixelated _TAP TO START_ buttons_64
+  - first:
+      213: 2657093954818337374
+    second: Pixelated _TAP TO START_ buttons_65
+  - first:
+      213: 5674581486299560559
+    second: Pixelated _TAP TO START_ buttons_66
+  - first:
+      213: -582238355359505571
+    second: Pixelated _TAP TO START_ buttons_67
+  - first:
+      213: -6915160918225861246
+    second: Pixelated _TAP TO START_ buttons_68
+  - first:
+      213: -3772860643171170091
+    second: Pixelated _TAP TO START_ buttons_69
+  - first:
+      213: -7900753079288868038
+    second: Pixelated _TAP TO START_ buttons_70
+  - first:
+      213: -2389615217488351532
+    second: Pixelated _TAP TO START_ buttons_71
+  - first:
+      213: 8959535204355025348
+    second: Pixelated _TAP TO START_ buttons_72
+  - first:
+      213: 7587978506440463984
+    second: Pixelated _TAP TO START_ buttons_73
+  - first:
+      213: 7908323655061257266
+    second: Pixelated _TAP TO START_ buttons_74
+  - first:
+      213: -7010737264840272737
+    second: Pixelated _TAP TO START_ buttons_75
+  - first:
+      213: -7558076613734401647
+    second: Pixelated _TAP TO START_ buttons_76
+  - first:
+      213: -1596485020519300415
+    second: Pixelated _TAP TO START_ buttons_77
+  - first:
+      213: -2179788807730314342
+    second: Pixelated _TAP TO START_ buttons_78
+  - first:
+      213: 1919572417772431424
+    second: Pixelated _TAP TO START_ buttons_79
+  - first:
+      213: 7241845658920367857
+    second: Pixelated _TAP TO START_ buttons_80
+  - first:
+      213: -6173661856283235823
+    second: Pixelated _TAP TO START_ buttons_81
+  - first:
+      213: 7082675848499925806
+    second: Pixelated _TAP TO START_ buttons_82
+  - first:
+      213: 9181170301198330392
+    second: Pixelated _TAP TO START_ buttons_83
+  - first:
+      213: 7746142718221603330
+    second: Pixelated _TAP TO START_ buttons_84
+  - first:
+      213: 8196681380551472122
+    second: Pixelated _TAP TO START_ buttons_85
+  - first:
+      213: -703478701235792451
+    second: Pixelated _TAP TO START_ buttons_86
+  - first:
+      213: -8330960659365838079
+    second: Pixelated _TAP TO START_ buttons_87
+  - first:
+      213: -4012952118292839460
+    second: Pixelated _TAP TO START_ buttons_88
+  - first:
+      213: 4592459641999819747
+    second: Pixelated _TAP TO START_ buttons_89
+  - first:
+      213: -8994172815095856761
+    second: Pixelated _TAP TO START_ buttons_90
+  - first:
+      213: -7425120543314467450
+    second: Pixelated _TAP TO START_ buttons_91
+  - first:
+      213: 2044665066105745631
+    second: Pixelated _TAP TO START_ buttons_92
+  - first:
+      213: -8554418666354258053
+    second: Pixelated _TAP TO START_ buttons_93
+  - first:
+      213: 3542736151181224096
+    second: Pixelated _TAP TO START_ buttons_94
+  - first:
+      213: 3806572638976503457
+    second: Pixelated _TAP TO START_ buttons_95
+  - first:
+      213: -5858935506747536967
+    second: Pixelated _TAP TO START_ buttons_96
+  - first:
+      213: -6626263344870073092
+    second: Pixelated _TAP TO START_ buttons_97
+  - first:
+      213: -8499557904091017689
+    second: Pixelated _TAP TO START_ buttons_98
+  - first:
+      213: 36015657407165461
+    second: Pixelated _TAP TO START_ buttons_99
+  - first:
+      213: 1884680149496404954
+    second: Pixelated _TAP TO START_ buttons_100
+  - first:
+      213: -1825222442858019890
+    second: Pixelated _TAP TO START_ buttons_101
+  - first:
+      213: -6670390433413957191
+    second: Pixelated _TAP TO START_ buttons_102
+  - first:
+      213: 1963177910290619233
+    second: Pixelated _TAP TO START_ buttons_103
+  - first:
+      213: -162788790200492602
+    second: Pixelated _TAP TO START_ buttons_104
+  - first:
+      213: 3825585517724526333
+    second: Pixelated _TAP TO START_ buttons_105
+  - first:
+      213: -7911919329625755245
+    second: Pixelated _TAP TO START_ buttons_106
+  - first:
+      213: -6494218120295257724
+    second: Pixelated _TAP TO START_ buttons_107
+  - first:
+      213: -3194807167442013164
+    second: Pixelated _TAP TO START_ buttons_108
+  - first:
+      213: -6038923200297695610
+    second: Pixelated _TAP TO START_ buttons_109
+  - first:
+      213: -2802513744729459886
+    second: Pixelated _TAP TO START_ buttons_110
+  - first:
+      213: 3394392708633970849
+    second: Pixelated _TAP TO START_ buttons_111
+  - first:
+      213: 2950842448695191199
+    second: Pixelated _TAP TO START_ buttons_112
+  - first:
+      213: 2150119846919819812
+    second: Pixelated _TAP TO START_ buttons_113
+  - first:
+      213: -3428476580109135311
+    second: Pixelated _TAP TO START_ buttons_114
+  - first:
+      213: -1676491312621411863
+    second: Pixelated _TAP TO START_ buttons_115
+  - first:
+      213: -7284773540953328805
+    second: Pixelated _TAP TO START_ buttons_116
+  - first:
+      213: -7579815226344718508
+    second: Pixelated _TAP TO START_ buttons_117
+  - first:
+      213: 5665768437291123018
+    second: Pixelated _TAP TO START_ buttons_118
+  - first:
+      213: -5096742974114924600
+    second: Pixelated _TAP TO START_ buttons_119
+  - first:
+      213: 5214305632985730544
+    second: Pixelated _TAP TO START_ buttons_120
+  - first:
+      213: 2683371619539534307
+    second: Pixelated _TAP TO START_ buttons_121
+  - first:
+      213: -1661814094468522792
+    second: Pixelated _TAP TO START_ buttons_122
+  - first:
+      213: 4994658402242555652
+    second: Pixelated _TAP TO START_ buttons_123
+  - first:
+      213: 8152924537261505592
+    second: Pixelated _TAP TO START_ buttons_124
+  - first:
+      213: 7535618159793575240
+    second: Pixelated _TAP TO START_ buttons_125
+  - first:
+      213: -1353603594464295941
+    second: Pixelated _TAP TO START_ buttons_126
+  - first:
+      213: -71319327129704734
+    second: Pixelated _TAP TO START_ buttons_127
+  - first:
+      213: -1938041379140967039
+    second: Pixelated _TAP TO START_ buttons_128
+  - first:
+      213: -268426980940308925
+    second: Pixelated _TAP TO START_ buttons_129
+  - first:
+      213: 8113897145787586996
+    second: Pixelated _TAP TO START_ buttons_130
+  - first:
+      213: 3337296754235579057
+    second: Pixelated _TAP TO START_ buttons_131
+  - first:
+      213: -3719483852331256602
+    second: Pixelated _TAP TO START_ buttons_132
+  - first:
+      213: 583120586559304827
+    second: Pixelated _TAP TO START_ buttons_133
+  - first:
+      213: -2940254376043965141
+    second: Pixelated _TAP TO START_ buttons_134
+  - first:
+      213: 9174846947779608554
+    second: Pixelated _TAP TO START_ buttons_135
+  - first:
+      213: 932812339825440495
+    second: Pixelated _TAP TO START_ buttons_136
+  - first:
+      213: 5597493422533837454
+    second: Pixelated _TAP TO START_ buttons_137
+  - first:
+      213: 4541825007679091537
+    second: Pixelated _TAP TO START_ buttons_138
+  - first:
+      213: 1372779805675969533
+    second: Pixelated _TAP TO START_ buttons_139
+  - first:
+      213: -4158690298267891886
+    second: Pixelated _TAP TO START_ buttons_140
+  - first:
+      213: -8768329116637160905
+    second: Pixelated _TAP TO START_ buttons_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 649
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7d6eccb960fbbe0800000000000000
+      internalID: -1459440488017373268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 790
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7996ec5584b7fe530800000000000000
+      internalID: 3886460554051479959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 810
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc5514b32029c5d0800000000000000
+      internalID: -3041864735594816266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 759
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6194fe0798d2465c0800000000000000
+      internalID: -4223200482238183146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_4
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 496
+        width: 723
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09f67d0e43da8190800000000000000
+      internalID: -7959317059237119730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 772
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70848803b07229830800000000000000
+      internalID: 4076363541736081415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 784
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca4ab65098d47360800000000000000
+      internalID: 7166591021495241422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 791
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ab32129f87048a0800000000000000
+      internalID: -6322920865429996905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 789
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f23a7cdb0cab0b0800000000000000
+      internalID: -5712041256035340513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_9
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 790
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a136291c241fcb8b0800000000000000
+      internalID: -5134964206091476198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_10
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 758
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3687cc571909ff4c0800000000000000
+      internalID: -4251520568793466781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 783
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5ca78d454c8c020800000000000000
+      internalID: 2362353873244046811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_12
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 779
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4a4a7f8e9165f00800000000000000
+      internalID: 1105099246943904994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_13
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 784
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434eec0a4ea85e970800000000000000
+      internalID: 8783579362811110452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_14
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 787
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9394f76cc1e63b0800000000000000
+      internalID: -5517440854617671185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_15
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 749
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9c7a2be6b360810800000000000000
+      internalID: 1731136453400316377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 779
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff6981a76a84b1f0800000000000000
+      internalID: -1030046237064597512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_17
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 770
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df6213ecd54f7810800000000000000
+      internalID: 1765206393957281745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 768
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f39f5d980d61b50800000000000000
+      internalID: 6563662797358055246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 777
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5dd9b65751da860800000000000000
+      internalID: 7542708544976311744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 778
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2720408e0f2fb36d0800000000000000
+      internalID: -3009544809468394894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_21
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 756
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf12c77a53086e4b0800000000000000
+      internalID: -5411496934307520005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_22
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 783
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb14219361010cd0800000000000000
+      internalID: -2593790383240242197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_23
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 767
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774f88534b28bffa0800000000000000
+      internalID: -5765871187413896073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_24
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 767
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a1b9fd169b67850800000000000000
+      internalID: 6374486152603966008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_25
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 779
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6810543bf0630b00800000000000000
+      internalID: 793584591378061423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_26
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 748
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b50f8c8cd9611e0800000000000000
+      internalID: -2227419479997916263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 773
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7b506db2b3b5a30800000000000000
+      internalID: 4205019736540821479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_28
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 762
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b892fe8cfd0e270800000000000000
+      internalID: 8277862169205902197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_29
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 773
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e195748742b940800000000000000
+      internalID: 5310385544856987270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 770
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cff5048958e4100800000000000000
+      internalID: 94159531182914620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_31
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 757
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6538a1c224b525600800000000000000
+      internalID: 455526852083745622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_32
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 758
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0636ee9b9bb6394f0800000000000000
+      internalID: -823195861446139040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_33
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 767
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d30e7d7c2610440800000000000000
+      internalID: 4900306480015621381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_34
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 776
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dab2ac17d14fbee0800000000000000
+      internalID: -1243202579976766764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_35
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 745
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89424f3649841380800000000000000
+      internalID: -9001418820404754034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_36
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 749
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc07d5e87ac90d40800000000000000
+      internalID: 5551190636311809207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 761
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443862aed35378c00800000000000000
+      internalID: 902748790348743492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 760
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918b161dd3b091b80800000000000000
+      internalID: -8423689267886049255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 751
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cd221908552e590800000000000000
+      internalID: -7646455206642525089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_40
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 759
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cebdac417a8cca20800000000000000
+      internalID: 3083992064064339657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_41
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 753
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21fbdb6865f1f510800000000000000
+      internalID: 1581314773018734893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_42
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 755
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6949a5f65a97b20800000000000000
+      internalID: 3132716913492530930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_43
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 755
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06aa9008c49ea230800000000000000
+      internalID: 3652019934568556046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_44
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 752
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ecea0d897b3d830800000000000000
+      internalID: 4094818353173941899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_45
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 757
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327a67108604768d0800000000000000
+      internalID: -2853241023470590173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_46
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 761
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a145c48808b017b0800000000000000
+      internalID: -5255498418414599773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_47
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 755
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fe5361226e6adc0800000000000000
+      internalID: -3627959415724445883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_48
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 757
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2a6f94bdb45eff0800000000000000
+      internalID: -7516419160366362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_49
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 755
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad04f68a5c3debb0800000000000000
+      internalID: -4905198059627737691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_50
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 762
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a828c672e5d289940800000000000000
+      internalID: 5303038443640357514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_51
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 617
+        width: 460
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde18ce7675114df0800000000000000
+      internalID: -197853309950222625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_52
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 752
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816c15fc25b7f3ba0800000000000000
+      internalID: -6107026974095325672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_53
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 753
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa0bad466227d690800000000000000
+      internalID: -7577550025242506578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_54
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 671
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9eff553e342a640800000000000000
+      internalID: 5089705172561553837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_55
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 267
+        width: 650
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c812dbc6368dfdd0800000000000000
+      internalID: -2450655052313782072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_56
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 676
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88450a03f3e239d50800000000000000
+      internalID: 6742783916037395592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_57
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 624
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6140d6e8aad6808f0800000000000000
+      internalID: -574088373188361194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_58
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 655
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eee8fe419071e80800000000000000
+      internalID: -8208081810336322040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_59
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 635
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4be9f5f4d32b7d0800000000000000
+      internalID: -2904191398584601362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_60
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 639
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acb2079289b54d40800000000000000
+      internalID: 5568060484843912352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_61
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 615
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5736bf88339683580800000000000000
+      internalID: -8847205797906914443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_62
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 589
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5703c4d5dde72f010800000000000000
+      internalID: 1221177938188972149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 616
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0b3fbfac8a964c0800000000000000
+      internalID: -4293715179957145389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 591
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d96672d63115bc0800000000000000
+      internalID: -3796231651363218074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_65
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 599
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ae8cfbfd4efd420800000000000000
+      internalID: 2657093954818337374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_66
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 601
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ab4ebebc920ce40800000000000000
+      internalID: 5674581486299560559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_67
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 583
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d536036fc497be7f0800000000000000
+      internalID: -582238355359505571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_68
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 598
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285cb7078c96800a0800000000000000
+      internalID: -6915160918225861246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_69
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 604
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d80bb80c3b14abc0800000000000000
+      internalID: -3772860643171170091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_70
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 602
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33d9e23fe2ea5290800000000000000
+      internalID: -7900753079288868038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_71
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 591
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de2db3de9166ded0800000000000000
+      internalID: -2389615217488351532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_72
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 600
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c920387cc9a65c70800000000000000
+      internalID: 8959535204355025348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_73
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 587
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076deafaf3aed4960800000000000000
+      internalID: 7587978506440463984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_74
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 575
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cbeb4d67200cd60800000000000000
+      internalID: 7908323655061257266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_75
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 355
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f941a932a9bd4be90800000000000000
+      internalID: -7010737264840272737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 380
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1997c2d3d515c1790800000000000000
+      internalID: -7558076613734401647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_77
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 371
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c207b6155528d9e0800000000000000
+      internalID: -1596485020519300415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_78
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 391
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93ccddd0a5dfb1e0800000000000000
+      internalID: -2179788807730314342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_79
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 370
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048a6f191f0b3aa10800000000000000
+      internalID: 1919572417772431424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_80
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 381
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f637220244308460800000000000000
+      internalID: 7241845658920367857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_81
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 351
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aebdc404fb25aa0800000000000000
+      internalID: -6173661856283235823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_82
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 365
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2393199828ba4260800000000000000
+      internalID: 7082675848499925806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_83
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 374
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aea49beb11a6f70800000000000000
+      internalID: 9181170301198330392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_84
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 350
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202d31be2c3df7b60800000000000000
+      internalID: 7746142718221603330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_85
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 377
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af334d8a94670c170800000000000000
+      internalID: 8196681380551472122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_86
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db599c139ddbc36f0800000000000000
+      internalID: -703478701235792451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_87
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 366
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103cebc6b6b726c80800000000000000
+      internalID: -8330960659365838079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_88
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 339
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd301885f412f48c0800000000000000
+      internalID: -4012952118292839460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_89
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 367
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e387b666b1bbbf30800000000000000
+      internalID: 4592459641999819747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_90
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 367
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7818cb35a774e2380800000000000000
+      internalID: -8994172815095856761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_91
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 369
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6852941b43ca4f890800000000000000
+      internalID: -7425120543314467450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_92
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 367
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd032e56b0c106c10800000000000000
+      internalID: 2044665066105745631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_93
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 362
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fcbf3db89984980800000000000000
+      internalID: -8554418666354258053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_94
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 351
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8671062c35a2130800000000000000
+      internalID: 3542736151181224096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_95
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 337
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae6ae5a5a9a3d430800000000000000
+      internalID: 3806572638976503457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_96
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 351
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9c366d231e0bea0800000000000000
+      internalID: -5858935506747536967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_97
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 336
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcd3d46898ca04a0800000000000000
+      internalID: -6626263344870073092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_98
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 335
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e8aca6e118b0a80800000000000000
+      internalID: -8499557904091017689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_99
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 352
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5143b12bc04ff7000800000000000000
+      internalID: 36015657407165461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_100
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb96f94c9ab72a10800000000000000
+      internalID: 1884680149496404954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_101
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 351
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec38061dbd18ba6e0800000000000000
+      internalID: -1825222442858019890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_102
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 351
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b97237fd330e63a0800000000000000
+      internalID: -6670390433413957191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_103
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 343
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b14c578eb9e3b10800000000000000
+      internalID: 1963177910290619233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_104
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 363
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd1fa23578adbdf0800000000000000
+      internalID: -162788790200492602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_105
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 352
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df669d172c5371530800000000000000
+      internalID: 3825585517724526333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_106
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 334
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3913c12f947333290800000000000000
+      internalID: -7911919329625755245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_107
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 349
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48965e50707efd5a0800000000000000
+      internalID: -6494218120295257724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_108
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 352
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4143fbadec3c9a3d0800000000000000
+      internalID: -3194807167442013164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_109
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 349
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686046c485f613ca0800000000000000
+      internalID: -6038923200297695610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_110
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 343
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2533047f8987b19d0800000000000000
+      internalID: -2802513744729459886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_111
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 337
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8cd4a2f2e4b1f20800000000000000
+      internalID: 3394392708633970849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_112
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 334
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96ee96a29f73f820800000000000000
+      internalID: 2950842448695191199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_113
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 335
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4225c24eb92c6dd10800000000000000
+      internalID: 2150119846919819812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_114
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 343
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13259d917ba9b60d0800000000000000
+      internalID: -3428476580109135311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_115
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 333
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e12c2a9808ebb8e0800000000000000
+      internalID: -1676491312621411863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_116
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 329
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53ff469f0947ea90800000000000000
+      internalID: -7284773540953328805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_117
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 333
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f30a216361fc690800000000000000
+      internalID: -7579815226344718508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_118
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 336
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418b5c006ad0ae40800000000000000
+      internalID: 5665768437291123018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_119
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 336
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7796cc44bb449b0800000000000000
+      internalID: -5096742974114924600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_120
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 344
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdce6cb85fec5840800000000000000
+      internalID: 5214305632985730544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_121
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 335
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1c40755404d3520800000000000000
+      internalID: 2683371619539534307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_122
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 245
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc5770c2ec00f8e0800000000000000
+      internalID: -1661814094468522792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_123
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 212
+        width: 448
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f6610aa57905540800000000000000
+      internalID: 4994658402242555652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_124
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 0
+        width: 778
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cb90caba1052170800000000000000
+      internalID: 8152924537261505592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_125
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 247
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8459a797ac4e39860800000000000000
+      internalID: 7535618159793575240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_126
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 216
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf38349d3b8073de0800000000000000
+      internalID: -1353603594464295941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_127
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 212
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e660d8237f920ff0800000000000000
+      internalID: -71319327129704734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_128
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 201
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1856b4442a1ba15e0800000000000000
+      internalID: -1938041379140967039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_129
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 199
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e1ce0451b564cf0800000000000000
+      internalID: -268426980940308925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_130
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 173
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b999bef67a5a9070800000000000000
+      internalID: 8113897145787586996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_131
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 172
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba964a57b5705e20800000000000000
+      internalID: 3337296754235579057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_132
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 186
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e47ef9942db16cc0800000000000000
+      internalID: -3719483852331256602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_133
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 199
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74b51f7519a71800800000000000000
+      internalID: 583120586559304827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_134
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 186
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b259c9e193e1237d0800000000000000
+      internalID: -2940254376043965141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_135
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 170
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeffaf640ba935f70800000000000000
+      internalID: 9174846947779608554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_136
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 193
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6756d71e302fc00800000000000000
+      internalID: 932812339825440495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_137
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 187
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8207ba6c9a4ead40800000000000000
+      internalID: 5597493422533837454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_138
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 176
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153b2b6e7cdc70f30800000000000000
+      internalID: 4541825007679091537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_139
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 182
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5520c5f71d0310800000000000000
+      internalID: 1372779805675969533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_140
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25701e8153d5946c0800000000000000
+      internalID: -4158690298267891886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons_141
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 171
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a90210023a05680800000000000000
+      internalID: -8768329116637160905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixelated _TAP TO START_ buttons_0: -1459440488017373268
+      Pixelated _TAP TO START_ buttons_1: 3886460554051479959
+      Pixelated _TAP TO START_ buttons_10: -4251520568793466781
+      Pixelated _TAP TO START_ buttons_100: 1884680149496404954
+      Pixelated _TAP TO START_ buttons_101: -1825222442858019890
+      Pixelated _TAP TO START_ buttons_102: -6670390433413957191
+      Pixelated _TAP TO START_ buttons_103: 1963177910290619233
+      Pixelated _TAP TO START_ buttons_104: -162788790200492602
+      Pixelated _TAP TO START_ buttons_105: 3825585517724526333
+      Pixelated _TAP TO START_ buttons_106: -7911919329625755245
+      Pixelated _TAP TO START_ buttons_107: -6494218120295257724
+      Pixelated _TAP TO START_ buttons_108: -3194807167442013164
+      Pixelated _TAP TO START_ buttons_109: -6038923200297695610
+      Pixelated _TAP TO START_ buttons_11: 2362353873244046811
+      Pixelated _TAP TO START_ buttons_110: -2802513744729459886
+      Pixelated _TAP TO START_ buttons_111: 3394392708633970849
+      Pixelated _TAP TO START_ buttons_112: 2950842448695191199
+      Pixelated _TAP TO START_ buttons_113: 2150119846919819812
+      Pixelated _TAP TO START_ buttons_114: -3428476580109135311
+      Pixelated _TAP TO START_ buttons_115: -1676491312621411863
+      Pixelated _TAP TO START_ buttons_116: -7284773540953328805
+      Pixelated _TAP TO START_ buttons_117: -7579815226344718508
+      Pixelated _TAP TO START_ buttons_118: 5665768437291123018
+      Pixelated _TAP TO START_ buttons_119: -5096742974114924600
+      Pixelated _TAP TO START_ buttons_12: 1105099246943904994
+      Pixelated _TAP TO START_ buttons_120: 5214305632985730544
+      Pixelated _TAP TO START_ buttons_121: 2683371619539534307
+      Pixelated _TAP TO START_ buttons_122: -1661814094468522792
+      Pixelated _TAP TO START_ buttons_123: 4994658402242555652
+      Pixelated _TAP TO START_ buttons_124: 8152924537261505592
+      Pixelated _TAP TO START_ buttons_125: 7535618159793575240
+      Pixelated _TAP TO START_ buttons_126: -1353603594464295941
+      Pixelated _TAP TO START_ buttons_127: -71319327129704734
+      Pixelated _TAP TO START_ buttons_128: -1938041379140967039
+      Pixelated _TAP TO START_ buttons_129: -268426980940308925
+      Pixelated _TAP TO START_ buttons_13: 8783579362811110452
+      Pixelated _TAP TO START_ buttons_130: 8113897145787586996
+      Pixelated _TAP TO START_ buttons_131: 3337296754235579057
+      Pixelated _TAP TO START_ buttons_132: -3719483852331256602
+      Pixelated _TAP TO START_ buttons_133: 583120586559304827
+      Pixelated _TAP TO START_ buttons_134: -2940254376043965141
+      Pixelated _TAP TO START_ buttons_135: 9174846947779608554
+      Pixelated _TAP TO START_ buttons_136: 932812339825440495
+      Pixelated _TAP TO START_ buttons_137: 5597493422533837454
+      Pixelated _TAP TO START_ buttons_138: 4541825007679091537
+      Pixelated _TAP TO START_ buttons_139: 1372779805675969533
+      Pixelated _TAP TO START_ buttons_14: -5517440854617671185
+      Pixelated _TAP TO START_ buttons_140: -4158690298267891886
+      Pixelated _TAP TO START_ buttons_141: -8768329116637160905
+      Pixelated _TAP TO START_ buttons_15: 1731136453400316377
+      Pixelated _TAP TO START_ buttons_16: -1030046237064597512
+      Pixelated _TAP TO START_ buttons_17: 1765206393957281745
+      Pixelated _TAP TO START_ buttons_18: 6563662797358055246
+      Pixelated _TAP TO START_ buttons_19: 7542708544976311744
+      Pixelated _TAP TO START_ buttons_2: -3041864735594816266
+      Pixelated _TAP TO START_ buttons_20: -3009544809468394894
+      Pixelated _TAP TO START_ buttons_21: -5411496934307520005
+      Pixelated _TAP TO START_ buttons_22: -2593790383240242197
+      Pixelated _TAP TO START_ buttons_23: -5765871187413896073
+      Pixelated _TAP TO START_ buttons_24: 6374486152603966008
+      Pixelated _TAP TO START_ buttons_25: 793584591378061423
+      Pixelated _TAP TO START_ buttons_26: -2227419479997916263
+      Pixelated _TAP TO START_ buttons_27: 4205019736540821479
+      Pixelated _TAP TO START_ buttons_28: 8277862169205902197
+      Pixelated _TAP TO START_ buttons_29: 5310385544856987270
+      Pixelated _TAP TO START_ buttons_3: -4223200482238183146
+      Pixelated _TAP TO START_ buttons_30: 94159531182914620
+      Pixelated _TAP TO START_ buttons_31: 455526852083745622
+      Pixelated _TAP TO START_ buttons_32: -823195861446139040
+      Pixelated _TAP TO START_ buttons_33: 4900306480015621381
+      Pixelated _TAP TO START_ buttons_34: -1243202579976766764
+      Pixelated _TAP TO START_ buttons_35: -9001418820404754034
+      Pixelated _TAP TO START_ buttons_36: 5551190636311809207
+      Pixelated _TAP TO START_ buttons_37: 902748790348743492
+      Pixelated _TAP TO START_ buttons_38: -8423689267886049255
+      Pixelated _TAP TO START_ buttons_39: -7646455206642525089
+      Pixelated _TAP TO START_ buttons_4: -7959317059237119730
+      Pixelated _TAP TO START_ buttons_40: 3083992064064339657
+      Pixelated _TAP TO START_ buttons_41: 1581314773018734893
+      Pixelated _TAP TO START_ buttons_42: 3132716913492530930
+      Pixelated _TAP TO START_ buttons_43: 3652019934568556046
+      Pixelated _TAP TO START_ buttons_44: 4094818353173941899
+      Pixelated _TAP TO START_ buttons_45: -2853241023470590173
+      Pixelated _TAP TO START_ buttons_46: -5255498418414599773
+      Pixelated _TAP TO START_ buttons_47: -3627959415724445883
+      Pixelated _TAP TO START_ buttons_48: -7516419160366362
+      Pixelated _TAP TO START_ buttons_49: -4905198059627737691
+      Pixelated _TAP TO START_ buttons_5: 4076363541736081415
+      Pixelated _TAP TO START_ buttons_50: 5303038443640357514
+      Pixelated _TAP TO START_ buttons_51: -197853309950222625
+      Pixelated _TAP TO START_ buttons_52: -6107026974095325672
+      Pixelated _TAP TO START_ buttons_53: -7577550025242506578
+      Pixelated _TAP TO START_ buttons_54: 5089705172561553837
+      Pixelated _TAP TO START_ buttons_55: -2450655052313782072
+      Pixelated _TAP TO START_ buttons_56: 6742783916037395592
+      Pixelated _TAP TO START_ buttons_57: -574088373188361194
+      Pixelated _TAP TO START_ buttons_58: -8208081810336322040
+      Pixelated _TAP TO START_ buttons_59: -2904191398584601362
+      Pixelated _TAP TO START_ buttons_6: 7166591021495241422
+      Pixelated _TAP TO START_ buttons_60: 5568060484843912352
+      Pixelated _TAP TO START_ buttons_61: -8847205797906914443
+      Pixelated _TAP TO START_ buttons_62: 1221177938188972149
+      Pixelated _TAP TO START_ buttons_63: -4293715179957145389
+      Pixelated _TAP TO START_ buttons_64: -3796231651363218074
+      Pixelated _TAP TO START_ buttons_65: 2657093954818337374
+      Pixelated _TAP TO START_ buttons_66: 5674581486299560559
+      Pixelated _TAP TO START_ buttons_67: -582238355359505571
+      Pixelated _TAP TO START_ buttons_68: -6915160918225861246
+      Pixelated _TAP TO START_ buttons_69: -3772860643171170091
+      Pixelated _TAP TO START_ buttons_7: -6322920865429996905
+      Pixelated _TAP TO START_ buttons_70: -7900753079288868038
+      Pixelated _TAP TO START_ buttons_71: -2389615217488351532
+      Pixelated _TAP TO START_ buttons_72: 8959535204355025348
+      Pixelated _TAP TO START_ buttons_73: 7587978506440463984
+      Pixelated _TAP TO START_ buttons_74: 7908323655061257266
+      Pixelated _TAP TO START_ buttons_75: -7010737264840272737
+      Pixelated _TAP TO START_ buttons_76: -7558076613734401647
+      Pixelated _TAP TO START_ buttons_77: -1596485020519300415
+      Pixelated _TAP TO START_ buttons_78: -2179788807730314342
+      Pixelated _TAP TO START_ buttons_79: 1919572417772431424
+      Pixelated _TAP TO START_ buttons_8: -5712041256035340513
+      Pixelated _TAP TO START_ buttons_80: 7241845658920367857
+      Pixelated _TAP TO START_ buttons_81: -6173661856283235823
+      Pixelated _TAP TO START_ buttons_82: 7082675848499925806
+      Pixelated _TAP TO START_ buttons_83: 9181170301198330392
+      Pixelated _TAP TO START_ buttons_84: 7746142718221603330
+      Pixelated _TAP TO START_ buttons_85: 8196681380551472122
+      Pixelated _TAP TO START_ buttons_86: -703478701235792451
+      Pixelated _TAP TO START_ buttons_87: -8330960659365838079
+      Pixelated _TAP TO START_ buttons_88: -4012952118292839460
+      Pixelated _TAP TO START_ buttons_89: 4592459641999819747
+      Pixelated _TAP TO START_ buttons_9: -5134964206091476198
+      Pixelated _TAP TO START_ buttons_90: -8994172815095856761
+      Pixelated _TAP TO START_ buttons_91: -7425120543314467450
+      Pixelated _TAP TO START_ buttons_92: 2044665066105745631
+      Pixelated _TAP TO START_ buttons_93: -8554418666354258053
+      Pixelated _TAP TO START_ buttons_94: 3542736151181224096
+      Pixelated _TAP TO START_ buttons_95: 3806572638976503457
+      Pixelated _TAP TO START_ buttons_96: -5858935506747536967
+      Pixelated _TAP TO START_ buttons_97: -6626263344870073092
+      Pixelated _TAP TO START_ buttons_98: -8499557904091017689
+      Pixelated _TAP TO START_ buttons_99: 36015657407165461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

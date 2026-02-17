@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: e743776f12f2f4942ad12641784713c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5083110743003036839
+    second: Pixelated _TAP TO START_ buttons 1_0
+  - first:
+      213: 7810107532522418147
+    second: Pixelated _TAP TO START_ buttons 1_1
+  - first:
+      213: -5502174603110144123
+    second: Pixelated _TAP TO START_ buttons 1_2
+  - first:
+      213: -4408532079108258522
+    second: Pixelated _TAP TO START_ buttons 1_3
+  - first:
+      213: -8493067900795257214
+    second: Pixelated _TAP TO START_ buttons 1_4
+  - first:
+      213: -26081590415275424
+    second: Pixelated _TAP TO START_ buttons 1_5
+  - first:
+      213: -6993694651284879439
+    second: Pixelated _TAP TO START_ buttons 1_6
+  - first:
+      213: 7901977454990637955
+    second: Pixelated _TAP TO START_ buttons 1_7
+  - first:
+      213: 6693680922140174178
+    second: Pixelated _TAP TO START_ buttons 1_8
+  - first:
+      213: -5173230131623802999
+    second: Pixelated _TAP TO START_ buttons 1_9
+  - first:
+      213: 8713427413655329732
+    second: Pixelated _TAP TO START_ buttons 1_10
+  - first:
+      213: 1101080348773365921
+    second: Pixelated _TAP TO START_ buttons 1_11
+  - first:
+      213: 1737582266581876666
+    second: Pixelated _TAP TO START_ buttons 1_12
+  - first:
+      213: 6348072252741456637
+    second: Pixelated _TAP TO START_ buttons 1_13
+  - first:
+      213: 8144494273993683686
+    second: Pixelated _TAP TO START_ buttons 1_14
+  - first:
+      213: -2900188683730602222
+    second: Pixelated _TAP TO START_ buttons 1_15
+  - first:
+      213: -4795980859011978047
+    second: Pixelated _TAP TO START_ buttons 1_16
+  - first:
+      213: -8012044720181170431
+    second: Pixelated _TAP TO START_ buttons 1_17
+  - first:
+      213: -366448645851604093
+    second: Pixelated _TAP TO START_ buttons 1_18
+  - first:
+      213: 8692360051440878848
+    second: Pixelated _TAP TO START_ buttons 1_19
+  - first:
+      213: -408857758964920732
+    second: Pixelated _TAP TO START_ buttons 1_20
+  - first:
+      213: -4521510313812263341
+    second: Pixelated _TAP TO START_ buttons 1_21
+  - first:
+      213: 7918995554250645219
+    second: Pixelated _TAP TO START_ buttons 1_22
+  - first:
+      213: -5825179028589647648
+    second: Pixelated _TAP TO START_ buttons 1_23
+  - first:
+      213: 6644094429702290593
+    second: Pixelated _TAP TO START_ buttons 1_24
+  - first:
+      213: 3058679018849055430
+    second: Pixelated _TAP TO START_ buttons 1_25
+  - first:
+      213: 3470809070922081274
+    second: Pixelated _TAP TO START_ buttons 1_26
+  - first:
+      213: 903440556173637924
+    second: Pixelated _TAP TO START_ buttons 1_27
+  - first:
+      213: -3269828362572048678
+    second: Pixelated _TAP TO START_ buttons 1_28
+  - first:
+      213: -1007916408419988893
+    second: Pixelated _TAP TO START_ buttons 1_29
+  - first:
+      213: -6707606076148719994
+    second: Pixelated _TAP TO START_ buttons 1_30
+  - first:
+      213: -2699725372388769231
+    second: Pixelated _TAP TO START_ buttons 1_31
+  - first:
+      213: 8470296083596223058
+    second: Pixelated _TAP TO START_ buttons 1_32
+  - first:
+      213: 2990971861100518844
+    second: Pixelated _TAP TO START_ buttons 1_33
+  - first:
+      213: 1945009279702442672
+    second: Pixelated _TAP TO START_ buttons 1_34
+  - first:
+      213: -4095915205974509036
+    second: Pixelated _TAP TO START_ buttons 1_35
+  - first:
+      213: 7798559637843837317
+    second: Pixelated _TAP TO START_ buttons 1_36
+  - first:
+      213: -2907293005759405211
+    second: Pixelated _TAP TO START_ buttons 1_37
+  - first:
+      213: -4911429382262839937
+    second: Pixelated _TAP TO START_ buttons 1_38
+  - first:
+      213: -2045371648969962490
+    second: Pixelated _TAP TO START_ buttons 1_39
+  - first:
+      213: 5050315522472048264
+    second: Pixelated _TAP TO START_ buttons 1_40
+  - first:
+      213: -7840460729547635394
+    second: Pixelated _TAP TO START_ buttons 1_41
+  - first:
+      213: -9002193450805002035
+    second: Pixelated _TAP TO START_ buttons 1_42
+  - first:
+      213: -5294979204537094757
+    second: Pixelated _TAP TO START_ buttons 1_43
+  - first:
+      213: -7101735073744916555
+    second: Pixelated _TAP TO START_ buttons 1_44
+  - first:
+      213: 5651058885248911887
+    second: Pixelated _TAP TO START_ buttons 1_45
+  - first:
+      213: -8267224602846347958
+    second: Pixelated _TAP TO START_ buttons 1_46
+  - first:
+      213: 6559753489382896474
+    second: Pixelated _TAP TO START_ buttons 1_47
+  - first:
+      213: -265646904263185367
+    second: Pixelated _TAP TO START_ buttons 1_48
+  - first:
+      213: 7142525323102988435
+    second: Pixelated _TAP TO START_ buttons 1_49
+  - first:
+      213: -4003766402378479857
+    second: Pixelated _TAP TO START_ buttons 1_50
+  - first:
+      213: -6742455615297478374
+    second: Pixelated _TAP TO START_ buttons 1_51
+  - first:
+      213: 4214737990292277297
+    second: Pixelated _TAP TO START_ buttons 1_52
+  - first:
+      213: -6125264957280559812
+    second: Pixelated _TAP TO START_ buttons 1_53
+  - first:
+      213: -6256080405713285754
+    second: Pixelated _TAP TO START_ buttons 1_54
+  - first:
+      213: -8261307705336455125
+    second: Pixelated _TAP TO START_ buttons 1_55
+  - first:
+      213: -150947632792666045
+    second: Pixelated _TAP TO START_ buttons 1_56
+  - first:
+      213: -6115650554954084493
+    second: Pixelated _TAP TO START_ buttons 1_57
+  - first:
+      213: -8611680138110727535
+    second: Pixelated _TAP TO START_ buttons 1_58
+  - first:
+      213: -3228041562636745717
+    second: Pixelated _TAP TO START_ buttons 1_59
+  - first:
+      213: -6277042016378516117
+    second: Pixelated _TAP TO START_ buttons 1_60
+  - first:
+      213: -5823917984624044843
+    second: Pixelated _TAP TO START_ buttons 1_61
+  - first:
+      213: -2184109514460132258
+    second: Pixelated _TAP TO START_ buttons 1_62
+  - first:
+      213: -5375822392916553821
+    second: Pixelated _TAP TO START_ buttons 1_63
+  - first:
+      213: 9116905612980317128
+    second: Pixelated _TAP TO START_ buttons 1_64
+  - first:
+      213: -107845103258023999
+    second: Pixelated _TAP TO START_ buttons 1_65
+  - first:
+      213: 9124273989431532153
+    second: Pixelated _TAP TO START_ buttons 1_66
+  - first:
+      213: 4077002679145743824
+    second: Pixelated _TAP TO START_ buttons 1_67
+  - first:
+      213: 3578977209495398894
+    second: Pixelated _TAP TO START_ buttons 1_68
+  - first:
+      213: 3673195650190499653
+    second: Pixelated _TAP TO START_ buttons 1_69
+  - first:
+      213: 7612651554615797487
+    second: Pixelated _TAP TO START_ buttons 1_70
+  - first:
+      213: -7777257711484968143
+    second: Pixelated _TAP TO START_ buttons 1_71
+  - first:
+      213: -3886733124777854298
+    second: Pixelated _TAP TO START_ buttons 1_72
+  - first:
+      213: 4761033161153731183
+    second: Pixelated _TAP TO START_ buttons 1_73
+  - first:
+      213: -8986255993839042623
+    second: Pixelated _TAP TO START_ buttons 1_74
+  - first:
+      213: -7247454638824988664
+    second: Pixelated _TAP TO START_ buttons 1_75
+  - first:
+      213: 2525097989013065881
+    second: Pixelated _TAP TO START_ buttons 1_76
+  - first:
+      213: -543978172327842800
+    second: Pixelated _TAP TO START_ buttons 1_77
+  - first:
+      213: -3690339649376310389
+    second: Pixelated _TAP TO START_ buttons 1_78
+  - first:
+      213: 1972062110424455959
+    second: Pixelated _TAP TO START_ buttons 1_79
+  - first:
+      213: 1962004431880863649
+    second: Pixelated _TAP TO START_ buttons 1_80
+  - first:
+      213: -4317127873152025797
+    second: Pixelated _TAP TO START_ buttons 1_81
+  - first:
+      213: -7317508002254489565
+    second: Pixelated _TAP TO START_ buttons 1_82
+  - first:
+      213: -7354880051552658181
+    second: Pixelated _TAP TO START_ buttons 1_83
+  - first:
+      213: 5987779747276219417
+    second: Pixelated _TAP TO START_ buttons 1_84
+  - first:
+      213: -4002987700735107239
+    second: Pixelated _TAP TO START_ buttons 1_85
+  - first:
+      213: -2458400416205271222
+    second: Pixelated _TAP TO START_ buttons 1_86
+  - first:
+      213: 2150972799936008856
+    second: Pixelated _TAP TO START_ buttons 1_87
+  - first:
+      213: -3878170883048205464
+    second: Pixelated _TAP TO START_ buttons 1_88
+  - first:
+      213: -6857135009670020665
+    second: Pixelated _TAP TO START_ buttons 1_89
+  - first:
+      213: 8874475857728554633
+    second: Pixelated _TAP TO START_ buttons 1_90
+  - first:
+      213: -8292901405403142247
+    second: Pixelated _TAP TO START_ buttons 1_91
+  - first:
+      213: 4204105473687295246
+    second: Pixelated _TAP TO START_ buttons 1_92
+  - first:
+      213: 1141638119763124122
+    second: Pixelated _TAP TO START_ buttons 1_93
+  - first:
+      213: 5568199306709696185
+    second: Pixelated _TAP TO START_ buttons 1_94
+  - first:
+      213: 1337198484081153055
+    second: Pixelated _TAP TO START_ buttons 1_95
+  - first:
+      213: 5858082856120194746
+    second: Pixelated _TAP TO START_ buttons 1_96
+  - first:
+      213: 7167546071803054538
+    second: Pixelated _TAP TO START_ buttons 1_97
+  - first:
+      213: -6966981440750313123
+    second: Pixelated _TAP TO START_ buttons 1_98
+  - first:
+      213: -8122585472238073654
+    second: Pixelated _TAP TO START_ buttons 1_99
+  - first:
+      213: -3379215764862193944
+    second: Pixelated _TAP TO START_ buttons 1_100
+  - first:
+      213: -7337629098122094763
+    second: Pixelated _TAP TO START_ buttons 1_101
+  - first:
+      213: 4167254926561082872
+    second: Pixelated _TAP TO START_ buttons 1_102
+  - first:
+      213: 4774916986469741355
+    second: Pixelated _TAP TO START_ buttons 1_103
+  - first:
+      213: -845979034912809678
+    second: Pixelated _TAP TO START_ buttons 1_104
+  - first:
+      213: -2093430264912494812
+    second: Pixelated _TAP TO START_ buttons 1_105
+  - first:
+      213: -5217824444701624016
+    second: Pixelated _TAP TO START_ buttons 1_106
+  - first:
+      213: -5633680101409608526
+    second: Pixelated _TAP TO START_ buttons 1_107
+  - first:
+      213: 784859915758031646
+    second: Pixelated _TAP TO START_ buttons 1_108
+  - first:
+      213: -7025721095363274504
+    second: Pixelated _TAP TO START_ buttons 1_109
+  - first:
+      213: -7592252464247816084
+    second: Pixelated _TAP TO START_ buttons 1_110
+  - first:
+      213: 1774688530745089832
+    second: Pixelated _TAP TO START_ buttons 1_111
+  - first:
+      213: -2038486813417422801
+    second: Pixelated _TAP TO START_ buttons 1_112
+  - first:
+      213: -341295074911168559
+    second: Pixelated _TAP TO START_ buttons 1_113
+  - first:
+      213: 9215645950580024567
+    second: Pixelated _TAP TO START_ buttons 1_114
+  - first:
+      213: 4915222584188866506
+    second: Pixelated _TAP TO START_ buttons 1_115
+  - first:
+      213: -1341080204513949622
+    second: Pixelated _TAP TO START_ buttons 1_116
+  - first:
+      213: 2443835731202161094
+    second: Pixelated _TAP TO START_ buttons 1_117
+  - first:
+      213: 3989206424497972110
+    second: Pixelated _TAP TO START_ buttons 1_118
+  - first:
+      213: -6189179851119418578
+    second: Pixelated _TAP TO START_ buttons 1_119
+  - first:
+      213: 9158360662562720753
+    second: Pixelated _TAP TO START_ buttons 1_120
+  - first:
+      213: -2123088278244712567
+    second: Pixelated _TAP TO START_ buttons 1_121
+  - first:
+      213: 7942361791846119076
+    second: Pixelated _TAP TO START_ buttons 1_122
+  - first:
+      213: -2738717334263304355
+    second: Pixelated _TAP TO START_ buttons 1_123
+  - first:
+      213: 6528889749065747951
+    second: Pixelated _TAP TO START_ buttons 1_124
+  - first:
+      213: -3210874026958984432
+    second: Pixelated _TAP TO START_ buttons 1_125
+  - first:
+      213: 1011412074327182211
+    second: Pixelated _TAP TO START_ buttons 1_126
+  - first:
+      213: -8607964621972778270
+    second: Pixelated _TAP TO START_ buttons 1_127
+  - first:
+      213: 5977216566468508306
+    second: Pixelated _TAP TO START_ buttons 1_128
+  - first:
+      213: -7233736307831140916
+    second: Pixelated _TAP TO START_ buttons 1_129
+  - first:
+      213: 6788181804831261105
+    second: Pixelated _TAP TO START_ buttons 1_130
+  - first:
+      213: -4743887103022201705
+    second: Pixelated _TAP TO START_ buttons 1_131
+  - first:
+      213: 3467863618178162605
+    second: Pixelated _TAP TO START_ buttons 1_132
+  - first:
+      213: -8094077297716748082
+    second: Pixelated _TAP TO START_ buttons 1_133
+  - first:
+      213: -5623450054603355106
+    second: Pixelated _TAP TO START_ buttons 1_134
+  - first:
+      213: -887545169991290105
+    second: Pixelated _TAP TO START_ buttons 1_135
+  - first:
+      213: -7873134844981720799
+    second: Pixelated _TAP TO START_ buttons 1_136
+  - first:
+      213: -6788382288097712042
+    second: Pixelated _TAP TO START_ buttons 1_137
+  - first:
+      213: 7752708366916624280
+    second: Pixelated _TAP TO START_ buttons 1_138
+  - first:
+      213: 7210827665538840169
+    second: Pixelated _TAP TO START_ buttons 1_139
+  - first:
+      213: -855780938504674528
+    second: Pixelated _TAP TO START_ buttons 1_140
+  - first:
+      213: 6703274326772440753
+    second: Pixelated _TAP TO START_ buttons 1_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 1536
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9530551f5b92579b0800000000000000
+      internalID: -5083110743003036839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelated _TAP TO START_ buttons 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efe99dcb63136c60800000000000000
+      internalID: 7810107532522418147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e3825fe7698df8e49a7c6b7f3ce635ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixelated _TAP TO START_ buttons 1_0: -5083110743003036839
+      Pixelated _TAP TO START_ buttons 1_1: 7810107532522418147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

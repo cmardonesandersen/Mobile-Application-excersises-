@@ -1,0 +1,2938 @@
+fileFormatVersion: 2
+guid: 8340b802bc5e36149a43174a9ee3d37a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8266617425438176439
+    second: Tap to start_0
+  - first:
+      213: 6087236425167206475
+    second: Tap to start_1
+  - first:
+      213: 1191840022739888449
+    second: Tap to start_2
+  - first:
+      213: 9183685470800344635
+    second: Tap to start_3
+  - first:
+      213: -4677489907250723866
+    second: Tap to start_4
+  - first:
+      213: 2057422897144575854
+    second: Tap to start_5
+  - first:
+      213: -4941725433269215784
+    second: Tap to start_6
+  - first:
+      213: -5889645446400899436
+    second: Tap to start_7
+  - first:
+      213: 4458106478138464515
+    second: Tap to start_8
+  - first:
+      213: 3179973627587736137
+    second: Tap to start_9
+  - first:
+      213: 8796343263854026822
+    second: Tap to start_10
+  - first:
+      213: -6052585700349875237
+    second: Tap to start_11
+  - first:
+      213: 8530172006747762751
+    second: Tap to start_12
+  - first:
+      213: -5877676711270813554
+    second: Tap to start_13
+  - first:
+      213: -4191274938996065210
+    second: Tap to start_14
+  - first:
+      213: 3026189105370347729
+    second: Tap to start_15
+  - first:
+      213: -4382200340555059163
+    second: Tap to start_16
+  - first:
+      213: 1092085612006072446
+    second: Tap to start_17
+  - first:
+      213: -6633997444737292703
+    second: Tap to start_18
+  - first:
+      213: -6723596136914430419
+    second: Tap to start_19
+  - first:
+      213: -6419716883462271389
+    second: Tap to start_20
+  - first:
+      213: 571983139953441249
+    second: Tap to start_21
+  - first:
+      213: -3291415596270563531
+    second: Tap to start_22
+  - first:
+      213: 4580099394357724949
+    second: Tap to start_23
+  - first:
+      213: 8876070117717247661
+    second: Tap to start_24
+  - first:
+      213: -8841188348745653017
+    second: Tap to start_25
+  - first:
+      213: 5010360032802840255
+    second: Tap to start_26
+  - first:
+      213: -1828496812714085733
+    second: Tap to start_27
+  - first:
+      213: -783556327492044419
+    second: Tap to start_28
+  - first:
+      213: -7404133918588509435
+    second: Tap to start_29
+  - first:
+      213: 8306581516736085770
+    second: Tap to start_30
+  - first:
+      213: -7940114946173341619
+    second: Tap to start_31
+  - first:
+      213: 5215484669362411085
+    second: Tap to start_32
+  - first:
+      213: 1504681466068449866
+    second: Tap to start_33
+  - first:
+      213: -4634536672981160490
+    second: Tap to start_34
+  - first:
+      213: -1338828080381492838
+    second: Tap to start_35
+  - first:
+      213: 8113675806444242643
+    second: Tap to start_36
+  - first:
+      213: 4190907675993685179
+    second: Tap to start_37
+  - first:
+      213: -1437200083117676239
+    second: Tap to start_38
+  - first:
+      213: -7407701461200038520
+    second: Tap to start_39
+  - first:
+      213: -946306996299243400
+    second: Tap to start_40
+  - first:
+      213: 5984980600869456466
+    second: Tap to start_41
+  - first:
+      213: 9159700428001950632
+    second: Tap to start_42
+  - first:
+      213: -3340487304820063805
+    second: Tap to start_43
+  - first:
+      213: -7727013724920843184
+    second: Tap to start_44
+  - first:
+      213: -6448081232550067740
+    second: Tap to start_45
+  - first:
+      213: 3579903455984739650
+    second: Tap to start_46
+  - first:
+      213: 6595609753754473064
+    second: Tap to start_47
+  - first:
+      213: 4514100829848191235
+    second: Tap to start_48
+  - first:
+      213: -3312351779924879728
+    second: Tap to start_49
+  - first:
+      213: -2294882261971732062
+    second: Tap to start_50
+  - first:
+      213: 1493261288438595801
+    second: Tap to start_51
+  - first:
+      213: -8838287840072832332
+    second: Tap to start_52
+  - first:
+      213: -1341597599247143355
+    second: Tap to start_53
+  - first:
+      213: 757603853868153591
+    second: Tap to start_54
+  - first:
+      213: 8291514220690683013
+    second: Tap to start_55
+  - first:
+      213: -5831594024200352027
+    second: Tap to start_56
+  - first:
+      213: -6418219170028772278
+    second: Tap to start_57
+  - first:
+      213: -2065228740514786835
+    second: Tap to start_58
+  - first:
+      213: 9052774974636196422
+    second: Tap to start_59
+  - first:
+      213: 4246631554732662947
+    second: Tap to start_60
+  - first:
+      213: 2491770169540115167
+    second: Tap to start_61
+  - first:
+      213: 422432899857337310
+    second: Tap to start_62
+  - first:
+      213: 4460611720102296172
+    second: Tap to start_63
+  - first:
+      213: -9075290871786133164
+    second: Tap to start_64
+  - first:
+      213: 6307018537264248666
+    second: Tap to start_65
+  - first:
+      213: 730467045836691686
+    second: Tap to start_66
+  - first:
+      213: -2852403159448834295
+    second: Tap to start_67
+  - first:
+      213: 5378459663083142622
+    second: Tap to start_68
+  - first:
+      213: 8345603758012436305
+    second: Tap to start_69
+  - first:
+      213: 1854282080672237122
+    second: Tap to start_70
+  - first:
+      213: 9059832986184350186
+    second: Tap to start_71
+  - first:
+      213: 1039261443252356002
+    second: Tap to start_72
+  - first:
+      213: -8713777648394675329
+    second: Tap to start_73
+  - first:
+      213: 5457417173115373157
+    second: Tap to start_74
+  - first:
+      213: -4980376120495805611
+    second: Tap to start_75
+  - first:
+      213: 2098290194949329218
+    second: Tap to start_76
+  - first:
+      213: 7150390468515146267
+    second: Tap to start_77
+  - first:
+      213: 6516574420153161748
+    second: Tap to start_78
+  - first:
+      213: 3916759896234417083
+    second: Tap to start_79
+  - first:
+      213: -8473208460777135746
+    second: Tap to start_80
+  - first:
+      213: -2545198097923505026
+    second: Tap to start_81
+  - first:
+      213: -4396195330129752799
+    second: Tap to start_82
+  - first:
+      213: -3322763802336150678
+    second: Tap to start_83
+  - first:
+      213: -2748471201379743054
+    second: Tap to start_84
+  - first:
+      213: 8449791706422981802
+    second: Tap to start_85
+  - first:
+      213: -8679264025145741641
+    second: Tap to start_86
+  - first:
+      213: 7362013908615959060
+    second: Tap to start_87
+  - first:
+      213: 2263977288960951254
+    second: Tap to start_88
+  - first:
+      213: 5091931349775755279
+    second: Tap to start_89
+  - first:
+      213: 6496930252339738394
+    second: Tap to start_90
+  - first:
+      213: 1051882351882926363
+    second: Tap to start_91
+  - first:
+      213: 732097017886150181
+    second: Tap to start_92
+  - first:
+      213: 2872095052033595439
+    second: Tap to start_93
+  - first:
+      213: 2649290787770742613
+    second: Tap to start_94
+  - first:
+      213: 5854469726493192326
+    second: Tap to start_95
+  - first:
+      213: -5305000111012929126
+    second: Tap to start_96
+  - first:
+      213: 3451437619995350798
+    second: Tap to start_97
+  - first:
+      213: -3385425914115906535
+    second: Tap to start_98
+  - first:
+      213: -8578429946592501694
+    second: Tap to start_99
+  - first:
+      213: -8640035279346836136
+    second: Tap to start_100
+  - first:
+      213: -5982483721342842873
+    second: Tap to start_101
+  - first:
+      213: -3188039544383807915
+    second: Tap to start_102
+  - first:
+      213: -7952209319742275567
+    second: Tap to start_103
+  - first:
+      213: -2197539271300897092
+    second: Tap to start_104
+  - first:
+      213: -1028924002506283119
+    second: Tap to start_105
+  - first:
+      213: -8248281969849598171
+    second: Tap to start_106
+  - first:
+      213: -6821835829509753311
+    second: Tap to start_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tap to start_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 634
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b04beff33174d80800000000000000
+      internalID: -8266617425438176439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 750
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48f8e1f6453a7450800000000000000
+      internalID: 6087236425167206475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 759
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1492180af244a8010800000000000000
+      internalID: 1191840022739888449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 767
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3678f74741037f70800000000000000
+      internalID: 9183685470800344635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 765
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e388d536b7361fb0800000000000000
+      internalID: -4677489907250723866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 743
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67be09693f6d8c10800000000000000
+      internalID: 2057422897144575854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_6
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 738
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd997c96e67b6bb0800000000000000
+      internalID: -4941725433269215784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 509
+        width: 785
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4960742dba6c34ea0800000000000000
+      internalID: -5889645446400899436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_8
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 735
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3099f48c8306edd30800000000000000
+      internalID: 4458106478138464515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_9
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 735
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9423a738a29812c20800000000000000
+      internalID: 3179973627587736137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 754
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6406b6ce793e21a70800000000000000
+      internalID: 8796343263854026822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_11
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 747
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb690e9f55e00ca0800000000000000
+      internalID: -6052585700349875237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 751
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f307e2fce32416670800000000000000
+      internalID: 8530172006747762751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_13
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 751
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80fd102c2c4e6ea0800000000000000
+      internalID: -5877676711270813554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_14
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 755
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c742936a995d5c0800000000000000
+      internalID: -4191274938996065210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_15
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 756
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8b1c835fe2ff920800000000000000
+      internalID: 3026189105370347729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 737
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520be96120c4f23c0800000000000000
+      internalID: -4382200340555059163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 735
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70efe7f31ed72f00800000000000000
+      internalID: 1092085612006072446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_18
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 737
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166a591f87e4fe3a0800000000000000
+      internalID: -6633997444737292703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 744
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26d606cfecf0b2a0800000000000000
+      internalID: -6723596136914430419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_20
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 726
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e47a2f18598e6a0800000000000000
+      internalID: -6419716883462271389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_21
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 736
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9ff62a2a710f700800000000000000
+      internalID: 571983139953441249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_22
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 738
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fcc1034fa8252d0800000000000000
+      internalID: -3291415596270563531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_23
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 735
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5178cacf128cf8f30800000000000000
+      internalID: 4580099394357724949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_24
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 735
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da60fff9eb22e2b70800000000000000
+      internalID: 8876070117717247661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 724
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e461b81a0acd4580800000000000000
+      internalID: -8841188348745653017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 727
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe170067ef588540800000000000000
+      internalID: 5010360032802840255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_27
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 729
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b923e3d26dfdf96e0800000000000000
+      internalID: -1828496812714085733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_28
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 727
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79b35eebaf3025f0800000000000000
+      internalID: -783556327492044419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_29
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 735
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5036c190e6b3f3990800000000000000
+      internalID: -7404133918588509435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_30
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 728
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f31ea11e7e64370800000000000000
+      internalID: 8306581516736085770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 723
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d407195668b0fc190800000000000000
+      internalID: -7940114946173341619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_32
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 709
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4697d88caf116840800000000000000
+      internalID: 5215484669362411085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_33
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 720
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4abf1d32d3b1e410800000000000000
+      internalID: 1504681466068449866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 709
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddef646371deafb0800000000000000
+      internalID: -4634536672981160490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_35
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 716
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a910b8d44f68b6de0800000000000000
+      internalID: -1338828080381492838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_36
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 720
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d64ac96821999070800000000000000
+      internalID: 8113675806444242643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_37
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 701
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcbf02b358192a30800000000000000
+      internalID: 4190907675993685179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_38
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 709
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139eb96932a0e0ce0800000000000000
+      internalID: -1437200083117676239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_39
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 547
+        width: 418
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885970bc4ce823990800000000000000
+      internalID: -7407701461200038520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_40
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 683
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870ed15fcca0ed2f0800000000000000
+      internalID: -946306996299243400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_41
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 688
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a8d6e852cee0350800000000000000
+      internalID: 5984980600869456466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_42
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 679
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abbc04520bcd1f70800000000000000
+      internalID: 9159700428001950632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_43
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 688
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c18f73be7434a1d0800000000000000
+      internalID: -3340487304820063805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_44
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 642
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0547687e4f124c490800000000000000
+      internalID: -7727013724920843184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_45
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 665
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e18dfa4840d386a0800000000000000
+      internalID: -6448081232550067740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_46
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 668
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245e920e93f5ea130800000000000000
+      internalID: 3579903455984739650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 665
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86213a14020588b50800000000000000
+      internalID: 6595609753754473064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_48
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 667
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301c56bb9ce45ae30800000000000000
+      internalID: 4514100829848191235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_49
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 616
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096d1721b992802d0800000000000000
+      internalID: -3312351779924879728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_50
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 638
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a974d5ddb0f620e0800000000000000
+      internalID: -2294882261971732062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_51
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 615
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0893eea3129b410800000000000000
+      internalID: 1493261288438595801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_52
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 639
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baedc56908185580800000000000000
+      internalID: -8838287840072832332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_53
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 639
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e6b517710b16de0800000000000000
+      internalID: -1341597599247143355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_54
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 599
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa374ee0bc838a00800000000000000
+      internalID: 757603853868153591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 615
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843e5ed040611370800000000000000
+      internalID: 8291514220690683013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_56
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 616
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee4f31d124021fa0800000000000000
+      internalID: -5831594024200352027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_57
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 607
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4425d78ba7ede6a0800000000000000
+      internalID: -6418219170028772278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 598
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de150bd0765d653e0800000000000000
+      internalID: -2065228740514786835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_59
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 592
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6428cb230eae1ad70800000000000000
+      internalID: 9052774974636196422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_60
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 596
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a02ecf36e01fea30800000000000000
+      internalID: 4246631554732662947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_61
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 587
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda7a5964cb849220800000000000000
+      internalID: 2491770169540115167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_62
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 583
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb4f69fb78ccd500800000000000000
+      internalID: 422432899857337310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_63
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 591
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a34a1e9b647ed30800000000000000
+      internalID: 4460611720102296172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_64
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 585
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459a7d9f8071e0280800000000000000
+      internalID: -9075290871786133164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_65
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 584
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57707191f7078750800000000000000
+      internalID: 6307018537264248666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_66
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 599
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8993378e3232a00800000000000000
+      internalID: 730467045836691686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_67
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 583
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fa9dc607a3a68d0800000000000000
+      internalID: -2852403159448834295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_68
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 591
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd76d8319024aa40800000000000000
+      internalID: 5378459663083142622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_69
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 595
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f0f78a66a81d370800000000000000
+      internalID: 8345603758012436305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_70
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 575
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24647db5abbbbb910800000000000000
+      internalID: 1854282080672237122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_71
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 563
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae972e1991efabd70800000000000000
+      internalID: 9059832986184350186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_72
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 551
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a301d1c6c23c6e00800000000000000
+      internalID: 1039261443252356002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_73
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 575
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b52b77561721780800000000000000
+      internalID: -8713777648394675329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_74
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 576
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56688aa1104acbb40800000000000000
+      internalID: 5457417173115373157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_75
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 575
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b620a3e4622eab0800000000000000
+      internalID: -4980376120495805611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_76
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 575
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241d3a9a0df9e1d10800000000000000
+      internalID: 2098290194949329218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_77
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 569
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a2f292f3a4b3360800000000000000
+      internalID: 7150390468515146267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_78
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 567
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41850a9a8e58f6a50800000000000000
+      internalID: 6516574420153161748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_79
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 556
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb5c8daf502b5630800000000000000
+      internalID: 3916759896234417083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_80
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 556
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e716b834ccd196a80800000000000000
+      internalID: -8473208460777135746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_81
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 551
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e740542a0d3adacd0800000000000000
+      internalID: -2545198097923505026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_82
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 549
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d8268a3a39df2c0800000000000000
+      internalID: -4396195330129752799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_83
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 379
+        width: 243
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b3a313deb23e1d0800000000000000
+      internalID: -3322763802336150678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_84
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 393
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba8e5e11087bd9d0800000000000000
+      internalID: -2748471201379743054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_85
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 898
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4326fb9c0b34570800000000000000
+      internalID: 8449791706422981802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_86
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 343
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be6c559a5f0d8780800000000000000
+      internalID: -8679264025145741641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_87
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 362
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4121a8ee4a02b2660800000000000000
+      internalID: 7362013908615959060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_88
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 367
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3c11869534b6f10800000000000000
+      internalID: 2263977288960951254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_89
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 367
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f082f0c959c2aa640800000000000000
+      internalID: 5091931349775755279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_90
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 354
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17f23d64abb92a50800000000000000
+      internalID: 6496930252339738394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_91
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 366
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19fb790d69099e00800000000000000
+      internalID: 1051882351882926363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_92
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 368
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e0a34eb5ee82a00800000000000000
+      internalID: 732097017886150181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_93
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 367
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f289e999b3bbbd720800000000000000
+      internalID: 2872095052033595439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_94
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 375
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5573ac75feb24c420800000000000000
+      internalID: 2649290787770742613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_95
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 365
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680b7eba2314f3150800000000000000
+      internalID: 5854469726493192326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_96
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 344
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91aaa1918ad066b0800000000000000
+      internalID: -5305000111012929126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_97
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 350
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e071e389a38f5ef20800000000000000
+      internalID: 3451437619995350798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_98
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 351
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91428bf511d8401d0800000000000000
+      internalID: -3385425914115906535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_99
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 349
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240e7cef96b43f880800000000000000
+      internalID: -8578429946592501694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_100
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 355
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d50b7b0bd681880800000000000000
+      internalID: -8640035279346836136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_101
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 345
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7088dc280c2f9fca0800000000000000
+      internalID: -5982483721342842873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_102
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 339
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eda13eceec1c3d0800000000000000
+      internalID: -3188039544383807915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_103
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 352
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110063d91c314a190800000000000000
+      internalID: -7952209319742275567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_104
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 353
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6a3220da5c081e0800000000000000
+      internalID: -2197539271300897092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_105
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 338
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1976db9321788b1f0800000000000000
+      internalID: -1028924002506283119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_106
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 341
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ffadbef37388d80800000000000000
+      internalID: -8248281969849598171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap to start_107
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 337
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126f90ae478f351a0800000000000000
+      internalID: -6821835829509753311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tap to start_0: -8266617425438176439
+      Tap to start_1: 6087236425167206475
+      Tap to start_10: 8796343263854026822
+      Tap to start_100: -8640035279346836136
+      Tap to start_101: -5982483721342842873
+      Tap to start_102: -3188039544383807915
+      Tap to start_103: -7952209319742275567
+      Tap to start_104: -2197539271300897092
+      Tap to start_105: -1028924002506283119
+      Tap to start_106: -8248281969849598171
+      Tap to start_107: -6821835829509753311
+      Tap to start_11: -6052585700349875237
+      Tap to start_12: 8530172006747762751
+      Tap to start_13: -5877676711270813554
+      Tap to start_14: -4191274938996065210
+      Tap to start_15: 3026189105370347729
+      Tap to start_16: -4382200340555059163
+      Tap to start_17: 1092085612006072446
+      Tap to start_18: -6633997444737292703
+      Tap to start_19: -6723596136914430419
+      Tap to start_2: 1191840022739888449
+      Tap to start_20: -6419716883462271389
+      Tap to start_21: 571983139953441249
+      Tap to start_22: -3291415596270563531
+      Tap to start_23: 4580099394357724949
+      Tap to start_24: 8876070117717247661
+      Tap to start_25: -8841188348745653017
+      Tap to start_26: 5010360032802840255
+      Tap to start_27: -1828496812714085733
+      Tap to start_28: -783556327492044419
+      Tap to start_29: -7404133918588509435
+      Tap to start_3: 9183685470800344635
+      Tap to start_30: 8306581516736085770
+      Tap to start_31: -7940114946173341619
+      Tap to start_32: 5215484669362411085
+      Tap to start_33: 1504681466068449866
+      Tap to start_34: -4634536672981160490
+      Tap to start_35: -1338828080381492838
+      Tap to start_36: 8113675806444242643
+      Tap to start_37: 4190907675993685179
+      Tap to start_38: -1437200083117676239
+      Tap to start_39: -7407701461200038520
+      Tap to start_4: -4677489907250723866
+      Tap to start_40: -946306996299243400
+      Tap to start_41: 5984980600869456466
+      Tap to start_42: 9159700428001950632
+      Tap to start_43: -3340487304820063805
+      Tap to start_44: -7727013724920843184
+      Tap to start_45: -6448081232550067740
+      Tap to start_46: 3579903455984739650
+      Tap to start_47: 6595609753754473064
+      Tap to start_48: 4514100829848191235
+      Tap to start_49: -3312351779924879728
+      Tap to start_5: 2057422897144575854
+      Tap to start_50: -2294882261971732062
+      Tap to start_51: 1493261288438595801
+      Tap to start_52: -8838287840072832332
+      Tap to start_53: -1341597599247143355
+      Tap to start_54: 757603853868153591
+      Tap to start_55: 8291514220690683013
+      Tap to start_56: -5831594024200352027
+      Tap to start_57: -6418219170028772278
+      Tap to start_58: -2065228740514786835
+      Tap to start_59: 9052774974636196422
+      Tap to start_6: -4941725433269215784
+      Tap to start_60: 4246631554732662947
+      Tap to start_61: 2491770169540115167
+      Tap to start_62: 422432899857337310
+      Tap to start_63: 4460611720102296172
+      Tap to start_64: -9075290871786133164
+      Tap to start_65: 6307018537264248666
+      Tap to start_66: 730467045836691686
+      Tap to start_67: -2852403159448834295
+      Tap to start_68: 5378459663083142622
+      Tap to start_69: 8345603758012436305
+      Tap to start_7: -5889645446400899436
+      Tap to start_70: 1854282080672237122
+      Tap to start_71: 9059832986184350186
+      Tap to start_72: 1039261443252356002
+      Tap to start_73: -8713777648394675329
+      Tap to start_74: 5457417173115373157
+      Tap to start_75: -4980376120495805611
+      Tap to start_76: 2098290194949329218
+      Tap to start_77: 7150390468515146267
+      Tap to start_78: 6516574420153161748
+      Tap to start_79: 3916759896234417083
+      Tap to start_8: 4458106478138464515
+      Tap to start_80: -8473208460777135746
+      Tap to start_81: -2545198097923505026
+      Tap to start_82: -4396195330129752799
+      Tap to start_83: -3322763802336150678
+      Tap to start_84: -2748471201379743054
+      Tap to start_85: 8449791706422981802
+      Tap to start_86: -8679264025145741641
+      Tap to start_87: 7362013908615959060
+      Tap to start_88: 2263977288960951254
+      Tap to start_89: 5091931349775755279
+      Tap to start_9: 3179973627587736137
+      Tap to start_90: 6496930252339738394
+      Tap to start_91: 1051882351882926363
+      Tap to start_92: 732097017886150181
+      Tap to start_93: 2872095052033595439
+      Tap to start_94: 2649290787770742613
+      Tap to start_95: 5854469726493192326
+      Tap to start_96: -5305000111012929126
+      Tap to start_97: 3451437619995350798
+      Tap to start_98: -3385425914115906535
+      Tap to start_99: -8578429946592501694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
