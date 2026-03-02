@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
 
     public GameObject tapText;
     public TextMeshProUGUI scoreText;
+    public BaseEnemy[] enemyPrefabs;
 
     [SerializeField] private Player player;
 
@@ -46,7 +47,9 @@ public class GameManager : MonoBehaviour
 
         spawnPos.x = Random.Range(-maxX, maxX);
 
-        Instantiate( crate, spawnPos, Quaternion.identity);
+        BaseEnemy enemyToSpawn = enemyPrefabs[UnityEngine.Random.Range(0, enemyPrefabs.Length)];
+
+        Instantiate(enemyToSpawn, spawnPos, Quaternion.identity);
 
         player.attributes.currScore++;
 
